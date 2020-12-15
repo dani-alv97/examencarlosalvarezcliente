@@ -13,7 +13,7 @@
 			<dependency>
 				<groupId>org.wildfly</groupId>
 				<artifactId>wildfly-ejb-client-bom</artifactId>
-				<version>21.0.0.Final</version>
+				<version>14.0.1.Final</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>org.wildfly</groupId>
 			<artifactId>wildfly-naming</artifactId>
-			<version>21.0.0.Final</version>
+			<version>14.0.1.Final</version>
 		</dependency>
 
 		<!-- JBoss EJB client API jar. We use runtime scope because the EJB client 
